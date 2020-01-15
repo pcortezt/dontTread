@@ -1,0 +1,8 @@
+body{
+    background-image: url(Gadsden_flag.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: rgb(245,221,0);
+    background-position: center center;
+    background-attachment: fixed;
+    }
